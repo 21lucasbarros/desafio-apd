@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\ExerciciosAsenjo\\Exercicio01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F0DD19-12DD-4117-BB56-AFE6A6797DBF}|Exercicio01\\Exercicio01.csproj|c:\\users\\lucas\\desktop\\exerciciosasenjo\\exercicio01\\exercicio01\\criaclassebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F0DD19-12DD-4117-BB56-AFE6A6797DBF}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\criaclassebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F0DD19-12DD-4117-BB56-AFE6A6797DBF}|Exercicio01\\Exercicio01.csproj|C:\\Users\\lucas\\Desktop\\ExerciciosAsenjo\\Exercicio01\\exercicio01\\criaclasseihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F0DD19-12DD-4117-BB56-AFE6A6797DBF}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\criaclasseihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F0DD19-12DD-4117-BB56-AFE6A6797DBF}|Exercicio01\\Exercicio01.csproj|C:\\Users\\lucas\\Desktop\\ExerciciosAsenjo\\Exercicio01\\exercicio01\\criaclasseihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74F0DD19-12DD-4117-BB56-AFE6A6797DBF}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\criaclasseihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriaClasseIHM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\ExerciciosAsenjo\\Exercicio01\\Exercicio01\\CriaClasseIHM.cs",
+              "RelativeDocumentMoniker": "Exercicio01\\CriaClasseIHM.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\10-03\\Parte II Desafio Prova\\Exercicio01\\Exercicio01\\CriaClasseIHM.cs [Design]",
+              "RelativeToolTip": "..\\..\\10-03\\Parte II Desafio Prova\\Exercicio01\\Exercicio01\\CriaClasseIHM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:14:42.028Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriaClasseBLL.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\ExerciciosAsenjo\\Exercicio01\\Exercicio01\\CriaClasseBLL.cs",
+              "RelativeDocumentMoniker": "Exercicio01\\CriaClasseBLL.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\ExerciciosAsenjo\\Exercicio01\\Exercicio01\\CriaClasseBLL.cs",
+              "RelativeToolTip": "Exercicio01\\CriaClasseBLL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:25:50.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriaClasseIHM.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\ExerciciosAsenjo\\Exercicio01\\Exercicio01\\CriaClasseIHM.cs",
+              "RelativeDocumentMoniker": "Exercicio01\\CriaClasseIHM.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\ExerciciosAsenjo\\Exercicio01\\Exercicio01\\CriaClasseIHM.cs",
+              "RelativeToolTip": "Exercicio01\\CriaClasseIHM.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:14:53.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais.Core\bin\Debug\naoaguentomais.Core.dll
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais.Core\bin\Debug\naoaguentomais.Core.pdb
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais.Core\obj\Debug\exercicio2.Core.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais.Core\obj\Debug\exercicio2.Core.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais.Core\obj\Debug\naoaguentomais.Core.dll
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais.Core\obj\Debug\naoaguentomais.Core.pdb

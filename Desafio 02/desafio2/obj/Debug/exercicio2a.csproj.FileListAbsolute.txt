@@ -1,0 +1,41 @@
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\naoaguentomais.Properties.Resources.resources
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\naoaguentomais.exe
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\naoaguentomais.pdb
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.exe.config
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.exe
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.pdb
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.Core.dll
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.Core.pdb
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\exercicio2.Form1.resources
+C:\Users\unisanta\Desktop\ExerciciosAsenjo\ExerciciosAsenjo\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.CopyComplete
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.exe.config
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.exe
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.pdb
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.Core.dll
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\bin\Debug\naoaguentomais.Core.pdb
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.AssemblyReference.cache
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.SuggestedBindingRedirects.cache
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\exercicio2.Form1.resources
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\naoaguentomais.Properties.Resources.resources
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.GenerateResource.cache
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.CoreCompileInputs.cache
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\exercicio2a.csproj.CopyComplete
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\naoaguentomais.exe
+D:\assenju\Desafio TP1\naoaguentomais\naoaguentomais\obj\Debug\naoaguentomais.pdb
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\bin\Debug\naoaguentomais.exe.config
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\bin\Debug\naoaguentomais.exe
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\bin\Debug\naoaguentomais.pdb
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\bin\Debug\naoaguentomais.Core.dll
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\bin\Debug\naoaguentomais.Core.pdb
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\exercicio2a.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\exercicio2.Form1.resources
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\naoaguentomais.Properties.Resources.resources
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\exercicio2a.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\exercicio2a.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\exercici.1AB63649.Up2Date
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\naoaguentomais.exe
+C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\naoaguentomais.pdb

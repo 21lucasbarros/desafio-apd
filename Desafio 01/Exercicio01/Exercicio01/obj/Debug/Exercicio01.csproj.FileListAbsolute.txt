@@ -1,0 +1,62 @@
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2025\PrimeiroSemestre\SantaAplicacoesDesktop\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\ErrorLib.dll
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\ErrorLib.pdb
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.CriaClasseIHM.resources
+C:\Users\lucas\Downloads\Bim01Aula04a585019\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercici.6EEB1B59.Up2Date
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\ErrorLib.dll
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\ErrorLib.pdb
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.CriaClasseIHM.resources
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercici.6EEB1B59.Up2Date
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\lucas\Desktop\entregarSeg\Bim01Aula04\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\ErrorLib.dll
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\bin\Debug\ErrorLib.pdb
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.CriaClasseIHM.resources
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercici.6EEB1B59.Up2Date
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\lucas\Desktop\10-03\Parte II Desafio Prova\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\bin\Debug\ErrorLib.dll
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\bin\Debug\ErrorLib.pdb
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\obj\Debug\Exercicio01.CriaClasseIHM.resources
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\obj\Debug\Exercici.6EEB1B59.Up2Date
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\lucas\Desktop\ExerciciosAsenjo\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb

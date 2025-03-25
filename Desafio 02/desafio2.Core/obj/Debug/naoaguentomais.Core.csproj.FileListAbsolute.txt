@@ -1,0 +1,6 @@
+C:\Users\lucas\Desktop\bosta\naoaguentomais\naoaguentomais.Core\bin\Debug\naoaguentomais.Core.dll
+C:\Users\lucas\Desktop\bosta\naoaguentomais\naoaguentomais.Core\bin\Debug\naoaguentomais.Core.pdb
+C:\Users\lucas\Desktop\bosta\naoaguentomais\naoaguentomais.Core\obj\Debug\naoaguentomais.Core.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\bosta\naoaguentomais\naoaguentomais.Core\obj\Debug\naoaguentomais.Core.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\bosta\naoaguentomais\naoaguentomais.Core\obj\Debug\naoaguentomais.Core.dll
+C:\Users\lucas\Desktop\bosta\naoaguentomais\naoaguentomais.Core\obj\Debug\naoaguentomais.Core.pdb

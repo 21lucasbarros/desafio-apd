@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{584EE8CC-1F28-4152-9471-8523E8D73C15}|desafio2\\exercicio2a.csproj|c:\\users\\asus\\desktop\\lucas barros\\faculdade\\apd\\naoaguentomais\\naoaguentomais\\desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584EE8CC-1F28-4152-9471-8523E8D73C15}|desafio2\\exercicio2a.csproj|solutionrelative:desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584EE8CC-1F28-4152-9471-8523E8D73C15}|desafio2\\exercicio2a.csproj|c:\\users\\asus\\desktop\\lucas barros\\faculdade\\apd\\naoaguentomais\\naoaguentomais\\desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{584EE8CC-1F28-4152-9471-8523E8D73C15}|desafio2\\exercicio2a.csproj|solutionrelative:desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584EE8CC-1F28-4152-9471-8523E8D73C15}|desafio2\\exercicio2a.csproj|c:\\users\\asus\\desktop\\lucas barros\\faculdade\\apd\\naoaguentomais\\naoaguentomais\\desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584EE8CC-1F28-4152-9471-8523E8D73C15}|desafio2\\exercicio2a.csproj|solutionrelative:desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BA072-2E5B-416A-832B-EF6A3878A871}|desafio2.Core\\exercicio2.Core.csproj|c:\\users\\asus\\desktop\\lucas barros\\faculdade\\apd\\naoaguentomais\\naoaguentomais\\desafio2.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BA072-2E5B-416A-832B-EF6A3878A871}|desafio2.Core\\exercicio2.Core.csproj|solutionrelative:desafio2.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BA072-2E5B-416A-832B-EF6A3878A871}|desafio2.Core\\exercicio2.Core.csproj|c:\\users\\asus\\desktop\\lucas barros\\faculdade\\apd\\naoaguentomais\\naoaguentomais\\desafio2.core\\erro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BA072-2E5B-416A-832B-EF6A3878A871}|desafio2.Core\\exercicio2.Core.csproj|solutionrelative:desafio2.core\\erro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BA072-2E5B-416A-832B-EF6A3878A871}|desafio2.Core\\exercicio2.Core.csproj|c:\\users\\asus\\desktop\\lucas barros\\faculdade\\apd\\naoaguentomais\\naoaguentomais\\desafio2.core\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BA072-2E5B-416A-832B-EF6A3878A871}|desafio2.Core\\exercicio2.Core.csproj|solutionrelative:desafio2.core\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BA072-2E5B-416A-832B-EF6A3878A871}|desafio2.Core\\exercicio2.Core.csproj|c:\\users\\asus\\desktop\\lucas barros\\faculdade\\apd\\naoaguentomais\\naoaguentomais\\desafio2.core\\livrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BA072-2E5B-416A-832B-EF6A3878A871}|desafio2.Core\\exercicio2.Core.csproj|solutionrelative:desafio2.core\\livrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2\\Form1.cs",
+              "RelativeDocumentMoniker": "desafio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2\\Form1.cs",
+              "RelativeToolTip": "desafio2\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:25:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "desafio2.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2.Core\\Class1.cs",
+              "RelativeToolTip": "desafio2.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:24:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Erro.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2.Core\\Erro.cs",
+              "RelativeDocumentMoniker": "desafio2.Core\\Erro.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2.Core\\Erro.cs",
+              "RelativeToolTip": "desafio2.Core\\Erro.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:24:08.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2.Core\\Livro.cs",
+              "RelativeDocumentMoniker": "desafio2.Core\\Livro.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2.Core\\Livro.cs",
+              "RelativeToolTip": "desafio2.Core\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:24:07.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2.Core\\LivroBLL.cs",
+              "RelativeDocumentMoniker": "desafio2.Core\\LivroBLL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2.Core\\LivroBLL.cs",
+              "RelativeToolTip": "desafio2.Core\\LivroBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:24:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2\\Form1.cs",
+              "RelativeDocumentMoniker": "desafio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2\\Form1.cs [Design]",
+              "RelativeToolTip": "desafio2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:24:04.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2\\Program.cs",
+              "RelativeDocumentMoniker": "desafio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\naoaguentomais\\desafio2\\Program.cs",
+              "RelativeToolTip": "desafio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:24:00.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
