@@ -1,0 +1,7 @@
+public class Indalecio
+{
+  public string fofinhoDemais { get; set; }
+  public string antiRacismo { get; set; }
+  public string inteligente { get; set; }
+  public string fumante { get; set; }
+}

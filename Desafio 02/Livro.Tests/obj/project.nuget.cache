@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qj0HWUkgklQ=",
+  "dgSpecHash": "TME9QFGS8oI=",
   "success": false,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\Desafio 02\\Livro.Tests\\Livro.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programação\\desafio-apd\\Desafio 02\\Livro.Tests\\Livro.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
@@ -101,8 +101,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\Desafio 02\\naoaguentomais\\exercicio2a.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Faculdade\\APD\\naoaguentomais\\Desafio 02\\naoaguentomais\\exercicio2a.csproj",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programação\\desafio-apd\\Desafio 02\\naoaguentomais\\exercicio2a.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programação\\desafio-apd\\Desafio 02\\naoaguentomais\\exercicio2a.csproj",
       "targetGraphs": [
         "net6.0"
       ]

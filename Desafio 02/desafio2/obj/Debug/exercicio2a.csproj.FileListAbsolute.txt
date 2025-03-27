@@ -39,3 +39,16 @@ C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\d
 C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\exercici.1AB63649.Up2Date
 C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\naoaguentomais.exe
 C:\Users\Asus\Desktop\Lucas Barros\Faculdade\APD\naoaguentomais\naoaguentomais\desafio2\obj\Debug\naoaguentomais.pdb
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\bin\Debug\naoaguentomais.exe.config
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\bin\Debug\naoaguentomais.exe
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\bin\Debug\naoaguentomais.pdb
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\bin\Debug\naoaguentomais.Core.dll
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\bin\Debug\naoaguentomais.Core.pdb
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\obj\Debug\exercicio2a.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\obj\Debug\exercicio2.Form1.resources
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\obj\Debug\naoaguentomais.Properties.Resources.resources
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\obj\Debug\exercicio2a.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\obj\Debug\exercicio2a.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\obj\Debug\exercici.1AB63649.Up2Date
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\obj\Debug\naoaguentomais.exe
+C:\Users\Asus\Desktop\Lucas Barros\Programação\desafio-apd\Desafio 02\desafio2\obj\Debug\naoaguentomais.pdb

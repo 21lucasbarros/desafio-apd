@@ -28,7 +28,7 @@ namespace Exercicio01
 
         private void button3_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(textBox1.Text.ToLower());
+            listBox1.Items.Add(textBox1.Text);
             textBox1.Clear();
             textBox1.Focus();
         }
